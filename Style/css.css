@@ -1,0 +1,167 @@
+body {
+	background-image: url("https://raw.githubusercontent.com/davinci-ao/B1W5O2---Template/master/voorbeeld/header_bg.jpg");
+	margin: 0;
+	padding: 0;
+	font-family: 'Roboto', sans-serif;
+}
+
+.img1 {
+	margin: 0 auto 0 auto;
+	margin-top: 150px;
+	width: 350px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: white;
+  margin-right: 45px;
+}
+
+.header {
+ background-color: white;
+ height: 38px;
+}
+
+li {
+  float: right;
+  width: 41px;
+}
+
+
+li a {
+  
+  display: block;
+  color: white;
+  padding: 10px 10px;
+  margin-left: 1px;
+  text-decoration: none;
+  background-color: lightgrey;
+}
+
+li a:hover {
+  background-color: white;
+}
+
+.o1 {
+	color: white;
+	width: 40px;
+	text-align: center;
+	margin-top: 40px;
+	margin-left: 287px;
+	float: left;
+	font-size: 20px;
+}
+
+p {
+	margin: 3px;
+}
+
+.o2 {
+	color: white;
+	width: 40px;
+	float: left;
+	margin-top: 40px;
+	margin-left: 60px;
+	text-align: center;
+	font-size: 21px;
+}
+
+p.home {
+	margin-left: 16px;
+	font-size: 30px;
+}
+
+p.cogs {
+	margin-left: 30px;
+	font-size: 30px;
+}
+
+.o3 {
+	color: white;
+	float: left;
+	margin-top: 40px;
+	margin-left: 88px;
+	text-align: center;
+	font-size: 21px;
+}
+
+p.pages {
+	margin-left: 13px;
+	font-size: 30px;
+}
+
+.o4 {
+	color: white;
+	float: left;
+	margin-top: 37px;
+	margin-left: 45px;
+	text-align: center;
+	font-size: 21px;
+}
+
+p.port {
+	margin-left: 10px;
+	font-size: 30px;
+
+}
+
+.o5 {
+	color: white;
+	float: left;
+	margin-top: 40px;
+	margin-left: 50px;
+	text-align: center;
+	font-size: 21px;
+}
+
+p.blog {
+	margin-left: 6px;
+	font-size: 30px;
+}
+
+.o6 {
+	color: white;
+	float: left;
+	margin-top: 40px;
+	margin-left: 44px;
+	text-align: center;
+	font-size: 21px;
+	margin-bottom: 50px;
+	
+}
+
+p.contact {
+	margin-left: 10px;
+	font-size: 30px;
+}
+
+a:link {
+	color: grey;
+	text-decoration: none;
+}
+
+a:visited {
+	color: grey;
+	text-decoration: none;
+}
+
+a:hover {
+	color: white;
+	text-decoration: none;
+}
+
+a:active {
+	color: white;
+	text-decoration: none;
+}
+
+p.foot {
+	
+	clear: left;
+	color: white;
+	text-align: center;
+	margin-right: 50px;
+}
